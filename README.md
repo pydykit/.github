@@ -1,1 +1,1 @@
-Special repo for the organization repo of pydykit.
+Special repo for the organization [landing page](https://github.com/pydykit) of pydykit.
